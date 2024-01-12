@@ -1,6 +1,6 @@
 ---
-title: "Sample Report - Data Science Capstone"
-author: "Student name"
+title: "Missing Data and Imputation Methods"
+author: "Ruchith Chippari"
 date: '`r Sys.Date()`'
 format:
   html:
