@@ -18,7 +18,7 @@ editor:
 ---
 
 What articles did you read this week? For full credit, you must provide a summary of at least two articles.
-Your Answer:
+
 1. Self-perceived quality of life predicts mortality risk better than a multi-biomarker panel, but the combination of both does best
 Summary: Studies indicate that self-reported quality of life is a more accurate indicator of mortality risk than a multi-biomarker panel by itself. On the other hand, the predictive potential is greatly increased when combined. Biomarker panels provide objective physiological insights, whereas quality of life (QoL) reflects subjective judgments of general well-being. Superior prediction accuracy is probably produced by the combination of subjective and objective indicators, which together capture a more complete picture of health conditions. This emphasizes how crucial it is to incorporate both factual biological markers and subjective self-evaluations when determining mortality risk. A comprehensive understanding of a person's health is also provided by such an approach, which improves predicted accuracy and allows for more focused interventions and better health outcomes. Therefore, taking advantage of the complementing qualities of both subjective and objective indicators presents a viable way to improve mortality risk prediction and advance techniques for individualized healthcare.
 
